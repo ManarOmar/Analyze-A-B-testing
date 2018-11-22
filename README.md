@@ -3,4 +3,4 @@ difficulties of these For this project, this is an A/B test run by an e-commerce
 Your goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, 
 or perhaps run the experiment longer to make their decision.
 
-this project is created by Jepyter Notebook using python 3, Pandas, numpy, and matplotlib libraries.
+this project is created by Jypeter Notebook using python 3, Pandas, numpy, and matplotlib libraries.
