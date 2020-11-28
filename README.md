@@ -10,10 +10,11 @@ or perhaps run the experiment longer to make their decision.
 ## Dependancies
 
 this project is created using Jupyter Notebook:
+
 * python 3
 * Pandas
 * numpy
-* matplotlib 
+* matplotlib
 
 ## Part I - Probability
 ## Part II - A/B Test
